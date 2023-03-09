@@ -2,6 +2,7 @@
  margin: 0;
  padding:0;
  box-sizing: border-box;
+ 
 }
 
 body{
@@ -52,7 +53,9 @@ button{
 
 .btn-yellow{
     background: rgb(245, 146,62);
-    color:#fff;    
+    color:#fff;
+    text-align: center;
+    
       
 }
 .btn-grey{
@@ -61,5 +64,8 @@ button{
 .btn-equal{
     background: green;
    
+}
+#btnn{
+    padding-top: 10px !important;
 }
 
